@@ -3,6 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Project/AndDiaryProject/DiaryProject/app/src/main/res/layout/activity_intro.xml" value="0.5536458333333333" />
+        <entry key="..\:/Project/AndDiaryProject/DiaryProject/app/src/main/res/layout/activity_login.xml" value="0.5536458333333333" />
+        <entry key="..\:/Project/AndDiaryProject/DiaryProject/app/src/main/res/layout/activity_main.xml" value="0.5536458333333333" />
+        <entry key="..\:/Project/AndDiaryProject/DiaryProject/app/src/main/res/layout/activity_sign_up.xml" value="0.5536458333333333" />
+        <entry key="..\:/Project/AndDiaryProject/DiaryProject/app/src/main/res/layout/fragment_Tamagotchi.xml" value="0.315625" />
+        <entry key="..\:/Project/AndDiaryProject/DiaryProject/app/src/main/res/layout/fragment_calendar.xml" value="0.5536458333333333" />
+        <entry key="..\:/Project/AndDiaryProject/DiaryProject/app/src/main/res/layout/fragment_diary.xml" value="0.5536458333333333" />
+        <entry key="..\:/Project/AndDiaryProject/DiaryProject/app/src/main/res/layout/fragment_my_shop.xml" value="0.5536458333333333" />
+        <entry key="..\:/Project/AndDiaryProject/DiaryProject/app/src/main/res/layout/fragment_schedule.xml" value="0.5390625" />
+        <entry key="..\:/Project/AndDiaryProject/DiaryProject/app/src/main/res/layout/fragment_setting.xml" value="0.5536458333333333" />
+        <entry key="..\:/Project/AndDiaryProject/DiaryProject/app/src/main/res/layout/item_calendar_header.xml" value="0.315625" />
+        <entry key="..\:/Project/AndDiaryProject/DiaryProject/app/src/main/res/layout/item_day.xml" value="0.5390625" />
+        <entry key="..\:/Project/AndDiaryProject/DiaryProject/app/src/main/res/layout/item_day_empty.xml" value="0.5390625" />
+        <entry key="..\:/Project/AndDiaryProject/DiaryProject/app/src/main/res/menu/menu_main.xml" value="0.3302083333333333" />
         <entry key="..\:/Users/jin/AndroidStudioProjects/DiaryProject/app/src/main/res/layout/activity_main.xml" value="0.5390625" />
         <entry key="..\:/Users/jin/AndroidStudioProjects/DiaryProject/app/src/main/res/layout/fragment_calendar.xml" value="0.5536458333333333" />
       </map>

@@ -8,6 +8,7 @@
     tools:context=".MainActivity" >
 
     <FrameLayout
+        android:id="@+id/flMain"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="9">
@@ -15,7 +16,10 @@
     </FrameLayout>
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bnNavi"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="1" />
+        android:layout_weight="1"
+        android:background="#F6E9C6"
+        app:menu="@menu/menu_main" />
 </LinearLayout>
