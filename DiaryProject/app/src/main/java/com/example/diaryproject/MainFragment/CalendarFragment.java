@@ -69,9 +69,6 @@ public class CalendarFragment extends Fragment {
 
     public void setCalendarList(GregorianCalendar cal) {
 
-        String sYearMonDay = DateFormat.getDate(cal.getTimeInMillis(), DateFormat.CALENDAR_HEADER_FORMAT);
-        tvYearMonDay.setText(sYearMonDay);
-
         ArrayList<Object> calendarList = new ArrayList<>();
 
         int iNextMonth = 1;

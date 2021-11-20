@@ -5,7 +5,8 @@ import java.util.Date;
 import java.util.Locale;
 
 public class DateFormat {
-    public final static String CALENDAR_HEADER_FORMAT = "yyyy-MM-dd HH:mm:ss";
+    public final static String FULL_DATE_FORMAT = "yyyy-MM-dd HH:mm:ss";
+    public final static String YEAR_MONTH_FORMAT = "yyyy-MM";
     public final static String YEAR_FORMAT = "yyyy";
     public final static String MONTH_FORMAT = "MM";
     public final static String DAY_FORMAT = "d";
